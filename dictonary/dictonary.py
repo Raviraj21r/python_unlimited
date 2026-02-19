@@ -1,5 +1,5 @@
 # Creating a dictionary with data
-person = {
+person = { y
     "name": "Alice",
     "age": 30,
     "role": "Engineer"
